@@ -22,11 +22,3 @@ if __name__ == '__main__':
    bookService.getSubscribersOfTheBook("12340007")
    bookService.getSubscribersOfTheBook("12340008")
    bookService.getUsersWhoCheckedOutBook("12340000")
-
-
-
-
-
-
-
-

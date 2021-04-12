@@ -2,7 +2,6 @@ from Book.BookRepository import BookRepository
 from Book.Book import Book
 from Utilities.DataCalculator import DataCalculator
 
-
 class BookService:
     def __init__(self):
         self.bookRepository = BookRepository()

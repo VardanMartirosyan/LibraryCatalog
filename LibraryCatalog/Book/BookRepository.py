@@ -4,7 +4,6 @@ from Environment.ENV import Env
 from User.User import User
 from User.UserRepository import UserRepository
 
-
 class BookRepository:
     def __init__(self):
         self.booksDictionary = {}
